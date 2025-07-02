@@ -1,0 +1,12 @@
+openai:
+
+embedding:
+  model: "text-embedding-3-large"
+
+qdrant:
+  name: qdrant
+  host: 172.19.1.62
+  port: 26333
+
+streamlit:
+  port: 8501
